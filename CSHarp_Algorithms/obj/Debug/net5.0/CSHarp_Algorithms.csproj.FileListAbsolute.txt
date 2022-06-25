@@ -1,0 +1,16 @@
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.exe
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.deps.json
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.runtimeconfig.json
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.runtimeconfig.dev.json
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.dll
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\bin\Debug\net5.0\CSHarp_Algorithms.pdb
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.csproj.AssemblyReference.cache
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.AssemblyInfoInputs.cache
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.AssemblyInfo.cs
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.dll
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\refint\CSHarp_Algorithms.dll
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.pdb
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\CSHarp_Algorithms.genruntimeconfig.cache
+C:\Users\alapher.woriayibapri\Desktop\CSHarp_Algorithms\CSHarp_Algorithms\obj\Debug\net5.0\ref\CSHarp_Algorithms.dll
